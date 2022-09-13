@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-commerce-microservices-master.iml" filepath="$PROJECT_DIR$/.idea/e-commerce-microservices-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-catalog-service/product-catalog-service.iml" filepath="$PROJECT_DIR$/product-catalog-service/product-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-recommendation-service/product-recommendation-service.iml" filepath="$PROJECT_DIR$/product-recommendation-service/product-recommendation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/spring-eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/spring-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
